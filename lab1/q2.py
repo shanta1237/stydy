@@ -1,0 +1,1 @@
+#program that read the lengthh of base and height of right angle trangle
